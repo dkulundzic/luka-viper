@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises",
+        "state": {
+          "branch": null,
+          "revision": "6b6f4fe3385ed37389fb231bc40be81de2f1230f",
+          "version": "1.2.8"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
